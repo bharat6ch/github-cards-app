@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github-cards-app/static/css/main.073c9b0a.css",
+    "main.js": "/github-cards-app/static/js/main.e7d1f56e.js",
+    "static/js/787.c8121793.chunk.js": "/github-cards-app/static/js/787.c8121793.chunk.js",
+    "index.html": "/github-cards-app/index.html",
+    "main.073c9b0a.css.map": "/github-cards-app/static/css/main.073c9b0a.css.map",
+    "main.e7d1f56e.js.map": "/github-cards-app/static/js/main.e7d1f56e.js.map",
+    "787.c8121793.chunk.js.map": "/github-cards-app/static/js/787.c8121793.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e7d1f56e.js"
+  ]
+}
